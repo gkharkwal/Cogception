@@ -1,0 +1,9 @@
+<center><b>Instructions</b></center>
+
+<ul>
+<li>How far can you tilt the object over the edge of the table till it falls down?</li>
+<li>Adjust the tilt of the object until it is at its "balance point" (where it equally likely to return to its vertical position and to fall down).</li>
+<li>Press <b>','</b> to tilt the object to the <b>left</b> or <b>'.'</b> to tilt it to the <b>right</b>.</li>
+<li>Once satisfied, <i>press Spacebar</i> to register your response.</li>
+<li>On the next screen, start by clicking on the text that says, "<i>Press Spacebar to begin Demo/Experiment.</i>"</li>
+</ul>

@@ -1,0 +1,12 @@
+This repo contains the Java source code, along with the PHP code for the online lab project.
+The lab is currently being hosted at http://equinox.rutgers.edu/~cogception
+
+Each folder, except the one called "HTML," contains src for one online experiment.
+To compile them, one simply needs to call 'javac *.java'
+The .class files then need to be combined in a jar file and called as an applet (or more correct, object)
+from an HTML script.
+The code has been written in a way as to support old versions of Java, thus enabling
+	a wider audience.
+	
+The HTML folder, as the name implies, contains the code corresponding to the web interface that handles
+user management and data presentation.

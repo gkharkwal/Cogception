@@ -1,0 +1,10 @@
+<center><b>Instructions</b></center>
+
+<ul>
+<li>Catch the ball by adjusting the location of the "mitt."</li>
+<li>Wait for the ball to reach the disc before responding.</li>
+<li>Respond by moving the mitt to where you think the ball will emerge from.</li>
+<li>Press <b>','</b> to move the mitt <b>up</b> and <b>'.'</b> to move it <b>down</b>.</li>
+<li>After adjusting the position of the mitt, <i>press Spacebar</i> to register your response.</li>
+<li>On the next screen, start by clicking on the text that says, "<i>Press Spacebar to begin Demo/Experiment.</i>"</li>
+</ul>

@@ -1,0 +1,7 @@
+<center><b>Instructions</b></center>
+
+<ul>
+<li>Respond as quickly as possible to the color of the letters on the screen.</li>
+<li>Press <b>1</b> if the color is <b>Red</b>, <b>2</b> if it is <b>Green</b>, <b>3</b> if it is <b>Blue</b>, and <b>4</b> if it is <b>Black</b></li>
+<li>On the next screen, start by clicking on the text that says, "<i>Begin Demo/Experiment.</i>"</li>
+</ul>

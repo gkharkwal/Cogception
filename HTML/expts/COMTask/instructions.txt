@@ -1,0 +1,7 @@
+<center><b>Instructions</b></center>
+
+<ul>
+<li>Identify the Center of Mass of the object by moving the white dot <b>up</b> by pressing <b>','</b> or down by pressing <b>'.'</b>.</li>
+<li>Once satisfied, <i>press Spacebar</i> to register your response.</li>
+<li>On the next screen, start by clicking on the text that says, "<i>Press Spacebar to begin Demo/Experiment.</i>"</li>
+</ul>

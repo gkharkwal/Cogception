@@ -1,0 +1,9 @@
+<center><b>Instructions</b></center>
+
+<ul>
+<li>Two tones will be played consecutively.</li>
+<li>The task is to judge whether the second tone has higher pitch than the first.</li>
+<li>Wait for the question to appear before responding otherwise the response will not be recorded.</li>
+<li>Respond by pressing <b>'h'</b> if the second tone is <b>higher</b>, or <b>'l'</b> if it is <b>lower</b>.</li>
+<li>On the next screen, start by clicking on the text that says, "<i>Press Spacebar to begin Demo/Experiment.</i>"</li>
+</ul>

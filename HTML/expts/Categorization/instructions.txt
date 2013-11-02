@@ -1,0 +1,8 @@
+<center><b>Instructions</b></center>
+
+<ul>
+<li>The task is to attack all enemy ships and welcome all the allies.</li>
+<li>The whole experiment is divided into blocks, and at the start of each block, you will be shown the allies and the enemies for 10 seconds.</li>
+<li>Attack the enemy ships by pressing <b>','</b> and welcome the allies by pressing <b>'.'</b>.</li>
+<li>On the next screen, start by clicking on the text that says, "<i>Press Spacebar to begin Demo/Experiment.</i>"</li>
+</ul>

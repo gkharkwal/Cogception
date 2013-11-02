@@ -1,0 +1,8 @@
+<center><b>Instructions</b></center>
+
+<ul>
+<li>The task is to judge whether the test disc size is smaller or larger than the average size of the discs in the stimulus.</li>
+<li>Wait for the question to appear before responding.</li>
+<li>Respond by pressing <b>'s'</b> if the test disc size is <b>smaller</b>, or <b>'l'</b> if it is <b>larger</b>.</li>
+<li>On the next screen, start by clicking on the text that says, "<i>Press Spacebar to begin Demo/Experiment.</i>"</li>
+</ul>

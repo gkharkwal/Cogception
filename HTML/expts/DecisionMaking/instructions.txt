@@ -1,0 +1,10 @@
+<center><b>Instructions</b></center>
+
+<ul>
+<li>In each trial, you will see two choices.</li>
+<li>The task is to pick one of the two choices.</li>
+<li>To pick choice A, press <b>'a'</b>.</li>
+<li>To pick choice B, press <b>'b'</b>.</li>
+<li>You should not have to use a calculator to make a choice.  Instinctually, pick the choice that you would pick if someone were to really present those two choices to you.</li>
+<li>On the next screen, start by clicking on the text that says, "<i>Press Spacebar to begin Demo/Experiment.</i>"</li>
+</ul>
